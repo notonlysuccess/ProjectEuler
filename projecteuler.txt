@@ -1,0 +1,6 @@
+64	用分数表示开根号
+65	用分数计算e
+66	x^2 - D * y^2 = 1 pell 方程
+67	数塔DP
+68	gon-ring	枚举dfs
+69	Totient	φ	phi
