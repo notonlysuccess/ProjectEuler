@@ -1,5 +1,4 @@
 ProjectEuler
 ============
 
-*ProjectEuler solve use python*
-**ProjectEuler solve use python**
+ProjectEuler(http://www.projecteuler.net) solve use python
