@@ -97,3 +97,17 @@ def getFactors(n):
 			yield i
 			if i != j:
 				yield j
+
+
+def powmod(a,b,mod):
+	ret = 1
+	while b:
+		if b & 1:
+			ret *= a
+			if ret >= mod:
+				ret %= mod
+		a *= a
+		if a >= mod:
+			a %= mod
+		b >>= 1
+	return ret
