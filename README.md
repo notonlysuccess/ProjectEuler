@@ -1,4 +1,3 @@
 ProjectEuler
 ============
-
-hh love ss
+Python practice
